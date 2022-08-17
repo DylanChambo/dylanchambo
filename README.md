@@ -14,7 +14,7 @@ I'm a Part II Computer Systems Engineering student at The University of Auckland
 - ⚡ Fun fact: I enjoy spending most my free time at the gym.🏋️‍♂️
 
 
-### ⌨️ Some Things I Have expireience with
+### ⌨️ Some Things I Have Expireience With
 
 ###### Languages & Markup
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
