@@ -9,12 +9,12 @@ I'm a Part II Computer Systems Engineering student at The University of Auckland
 - 📧 Email me at [`dylan.chambo@gmail.com`](mailto:dylan.chambo@gmail.com)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-chamberlain/)
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
-- 🔭 I’m currently working on a Small To Do app with .NET, Angular and SQL Server
+- 🔭 I’m currently working on a small To Do app with .NET, Angular and SQL Server
 - 🌱 I’m currently learning analogue circuit design
 - ⚡ Fun fact: I enjoy spending most my free time at the gym.🏋️‍♂️
 
 
-### ⌨️ Some Things I Have Expireience With
+### ⌨️ Some Things I Have Experience With
 
 ###### Languages & Markup
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
