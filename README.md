@@ -7,7 +7,7 @@ I'm a Part II Computer Systems Engineering student at The University of Auckland
 - 📍 Auckland, New Zealand
 - 🎓 Computer Systems Engineering @ The University of Auckland
 - 📧 Email me at [`dylan.chambo@gmail.com`](mailto:dylan.chambo@gmail.com)
-- 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-chamberlain/)
+- 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-chamberain)
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
 - 🔭 I’m currently working on a small To Do app with .NET, Angular and SQL Server
 - 🌱 I’m currently learning analogue circuit design
