@@ -9,7 +9,7 @@ I'm a Part II Computer Systems Engineering student at The University of Auckland
 - 📧 Email me at [`dylan@chambo.xyz`](mailto:dylan@chambo.xyz)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-chamberain)
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
-- :paperclip: Check out [My Website](www.chambo.xyz)
+- :paperclip: Check out [My Website](https://www.chambo.xyz)
 - 🔭 I’m currently working on a small To Do app with .NET, Angular and SQL Server
 - 🌱 I’m currently learning analogue circuit design
 - ⚡ Fun fact: I enjoy spending most my free time at the gym.🏋️‍♂️
