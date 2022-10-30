@@ -6,7 +6,7 @@ I'm a Part II Computer Systems Engineering student at The University of Auckland
 
 - 📍 Auckland, New Zealand
 - 🎓 Computer Systems Engineering @ The University of Auckland
-- 📧 Email me at [`dylan@chambo.xyz`](mailto:dylan@chambo.xyz)
+- 📧 Email me at [`dylan.chambo@gmail.com`](mailto:dylan.chambo@gmail.com)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylanchambo)
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
 - :paperclip: Check out [My Website](https://www.chambo.xyz)
