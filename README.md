@@ -66,13 +66,10 @@ I'm a Part II Computer Systems Engineering student at The University of Auckland
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 💬 Discord
-[![Chambo#5958](https://lanyard.cnrad.dev/api/411353350596984834)](https://discord.com/users/411353350596984834)
-
 ### 📈 Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanchambo&count_private=true&show_icons=true&theme=react&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanchambo&count_private=true&show_icons=true&theme=dark&hide_border=true)
 <br>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanchambo&count_private=true&theme=react&layout=compact&langs_count=8&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanchambo&count_private=true&hide_border=true&theme=dark&layout=compact&langs_count=8)
 <br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=dylanchambo&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=dylanchambo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
