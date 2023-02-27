@@ -2,7 +2,7 @@
 
 <!-- **DylanChambo/dylanchambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm a Part II Computer Systems Engineering student at The University of Auckland.
+I'm a Part III Computer Systems Engineering student at The University of Auckland.
 
 - 📍 Auckland, New Zealand
 - 🎓 Computer Systems Engineering @ The University of Auckland
